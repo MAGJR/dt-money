@@ -18,7 +18,7 @@ new Server({
         type: 'deposit',
         category: 'Dev',
         amount: 6.000,
-        createAt: new Date('2021-02-12 09:00:00'),
+        createdAt: new Date('2021-02-12 09:00:00'),
       },
       {
         id: 2,
